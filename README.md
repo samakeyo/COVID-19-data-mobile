@@ -1,5 +1,5 @@
 
-# COVID-19 data (mobile)
+# EpiTrack (mobile)
 
 
 
