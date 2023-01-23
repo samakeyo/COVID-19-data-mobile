@@ -1,19 +1,12 @@
 
 # COVID-19 data (mobile)
 
-  
-  
 
-<img  src='https://media3.giphy.com/media/THm1ofDwDPganCYyIx/giphy.gif'  title='walk through'  />
 
   
 
 This is an open-source Android app that tracks COVID-19 information, utilizing UI elements from the Robinhood stock trading app. The app presents metrics related to the spread of the virus, such as daily positive cases, negative cases, and deaths. It sources its data from the [COVID tracking project](https://twitter.com/covid19tracking), and currently displays information for the US, including all states and territories.
  
-
-  
-
-<img  src='https://i.imgur.com/VCQNya5.png'  width='300px'  title='screenshot'  />
 
   
 
